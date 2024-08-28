@@ -4,7 +4,6 @@ import java.util.Scanner; // Import for user input
 
 public class ShapeDrawer {
     // Instance of Scanner to read user input
-    // Instance of Scanner to read user input
     private final Scanner scanner = new Scanner(System.in);
 
     // Display Menu
