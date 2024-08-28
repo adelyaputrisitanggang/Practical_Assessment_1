@@ -45,7 +45,7 @@ public class ShapeDrawer {
                 int height4 = scanner.nextInt();
                 System.out.print("Height: ");
                 int width = scanner.nextInt();
-                drawRectangle(width, height4); // Note: Parameters order is width, height
+                drawRectangle(width, height4); 
                 break;
             case 5:
                 System.out.println("Diamond");
